@@ -45,7 +45,11 @@ namespace operatorler
             {
                Console.WriteLine("Çok küçük yada çok büyük bir değer girdiniz.");
                Console.WriteLine(ex);
+         
 
+            }
+            finally{
+               Console.WriteLine("İşlem başarıyla tamamlandı.")
             }
         }
     }         
