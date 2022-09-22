@@ -4,7 +4,7 @@
 Dosyalarımın içinde yer alan program.cs'ye girilme zahmeti olmaması adına aşağıya çalışmamı önizleme olarak ekliyorum(süslü parantezler önizlemede hata verdiğinden konumlandırmalarına dikkat etmeyiniz)
 
 
-# C-101-Hata-Yonetimi Ders Notları
+# C-101-Hata-Yonetimi Ders Notları:
 
              using System;
 
